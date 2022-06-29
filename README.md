@@ -1,6 +1,6 @@
 ### Oii! Eu sou a Luma :)
 
-📚 Atualmente aprendendo Java! 
+
 <div align="center">
   <a href="https://github.com/luma-sz">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luma-sz&layout=compact&langs_count=7&theme=cobalt"/>
