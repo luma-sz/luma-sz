@@ -1,4 +1,4 @@
-### Oii! Eu sou a Luma :)
+### Front-end dev ;)
 
 
 <div align="center">
